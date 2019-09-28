@@ -14,5 +14,8 @@
 # limitations under the License.
 #
 
-add_lunch_combo omni_beyond1lte-eng
+COMMON_LUNCH_CHOICES tub_beyond1lte-userdebug
+COMMON_LUNCH_CHOICES tub_beyond1lte-user
+COMMON_LUNCH_CHOICES tub_beyond1lte-eng
+COMMON_LUNCH_CHOICES tub_beyond1lte
 
